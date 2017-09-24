@@ -1,0 +1,12 @@
+       0 ./file.txt
+       0 ./file3.txt
+      29 ./inf-lengths3.txt
+      20 ./inf_length3.txt
+      13 ./inf_lengths.txt
+      19 ./sorted_lengths.txt
+      15 ./writing/haiku.txt
+       0 ./writing/thesis/chapter_one.txt
+       0 ./writing/thesis/chapter_three.txt
+       0 ./writing/thesis/chapter_two.txt
+       1 ./writing/thesis_chapter_one.txt
+      97 total
